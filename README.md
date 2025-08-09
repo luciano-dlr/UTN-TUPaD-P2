@@ -6,7 +6,7 @@
 - **Nombre:** Luciano, de la Rubia
 - **Comisión:** Ag25-2C 07
 - **Matrícula:** 100025
-- 
+  
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 2**.  
 
