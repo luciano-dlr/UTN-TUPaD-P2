@@ -1,0 +1,3 @@
+Linea 1: Este es un archivo de prueba
+Linea 2: Creado para demostrar try-with-resources
+Linea 3: Los recursos se cierran automaticamente
